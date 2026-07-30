@@ -1,4 +1,4 @@
-# author : @modxashis
+# Telegram : @MalluFF
 # -*- coding: utf-8 -*-
 
 import os
