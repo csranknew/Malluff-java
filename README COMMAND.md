@@ -1,4 +1,4 @@
-# enc-dec-shell.sh👇
+# .sh Pyton Command👇
 
 pkg install nodejs
 
@@ -14,12 +14,11 @@ git clone https://github.com/csranknew/Malluff-java
 
 cd
 
-cd enc-dec-shell
+cd Malluff-java
 
 ls
 
 python2 bash_mallu.py
 
 
-Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
 
