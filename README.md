@@ -16,4 +16,4 @@ cd enc-dec-shell
 
 ls
 
-python2 bash.py
+python2 bash_mallu.py
