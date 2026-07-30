@@ -1,19 +1,3 @@
-pkg install nodejs
-
-pkg install nano
-
-pkg install python2
-
-pkg install git
-
-npm install -g bash-obfuscate
-
-git clone https://github.com/csranknew/Malluff-java
-
-cd
-
-cd Malluff-java
-
-ls
-
-python2 bash_mallu.py
+Telegram : @Malluff
+Instagram : Mallu_ff_hacker
+YouTube : mallu ff hacker { 4K Sub }
