@@ -1,5 +1,5 @@
-# Telegram : @MalluFF
-# Instagram : mallu_ff_hacker
+# Telegram : @Malluff
+# -*- coding: utf-8 -*-
 
 import os
 import sys
@@ -40,7 +40,7 @@ banner = r"""
 """.format(D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,Y,Y,Y)
 
 banner2 = """
-   {}[{}1{}]{} Type 1     {}[{}2{}]{} Telegram :@Malluff
+   {}[{}1{}]{} Encript      {}[{}2{}]{} TELEGRAM @MalluFF
 """.format(G,W,G,W,G,W,G,W)
 
 print banner
