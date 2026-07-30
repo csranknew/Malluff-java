@@ -1,5 +1,5 @@
 # Telegram : @MalluFF
-# -*- coding: utf-8 -*-
+# Instagram : mallu_ff_hacker
 
 import os
 import sys
