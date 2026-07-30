@@ -12,7 +12,7 @@ git clone https://github.com/csranknew/Malluff-java
 
 cd
 
-cd enc-dec-shell
+cd Malluff-java
 
 ls
 
