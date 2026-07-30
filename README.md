@@ -1,4 +1,4 @@
-# .sh Pyton Command👇
+# .sh Python Command👇
 
 pkg install nodejs
 
