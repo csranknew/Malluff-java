@@ -8,7 +8,7 @@ pkg install git
 
 npm install -g bash-obfuscate
 
-git clone [https://github.com/slughter/enc-dec-shell](https://github.com/csranknew/Malluff-java/edit/main/README.md)
+git clone https://github.com/csranknew/Malluff-java/edit/main/README.md](https://github.com/csranknew/Malluff-java/edit/main/README.md)
 
 cd
 
