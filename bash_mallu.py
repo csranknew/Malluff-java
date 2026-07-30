@@ -40,7 +40,7 @@ banner = r"""
 """.format(D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,Y,Y,Y)
 
 banner2 = """
-   {}[{}1{}]{} Encript      {}[{}2{}]{} TELEGRAM @MalluFF
+   {}[{}1{}]{} Type 1      {}[{}🛑{}]{} TELEGRAM @MalluFF
 """.format(G,W,G,W,G,W,G,W)
 
 print banner
